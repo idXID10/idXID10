@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on umhh... idk!! not yet!
 - 📫 How to reach me discord @itsdaten or @idxthatsme
 - 😄 Pronouns: he/him, they is fine
-- ⚡ Fun fact: i'm a lil awkward, please be patient
+- ⚡ Fun fact: i'm a lil awkward, please be patient with me
 
 <!---
 idXID10/idXID10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
