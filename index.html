@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+    <h1 id="numb">1</h1>
+    <button onclick="increase()">+1</button>
+    <script>
+       function increase(){
+        let lanumb =document.getElementById("numb").innerHTML
+        let newnumb = parseInt(lanumb) + 1
+        console.log(newnumb);
+        document.getElementById("numb").innerHTML = newnumb
+       } 
+    </script>
+</body>
+</html>
